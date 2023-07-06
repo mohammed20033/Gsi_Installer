@@ -96,4 +96,3 @@ print()
 
 input("press enter to exit")
 exit()
-￼Enter
